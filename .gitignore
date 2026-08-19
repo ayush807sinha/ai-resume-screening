@@ -14,5 +14,3 @@ wheels/
 .env.*
 !.env.example
 
-# Candidate resumes
-resume/
